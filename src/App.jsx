@@ -1,10 +1,10 @@
 
-import LoremGenerator from './LoremGenerator';
+import EducationPlanner from './EducationPlanner';
 
 const App = () => {
   return (
 <>
-<LoremGenerator/>
+<EducationPlanner/>
 </>
   
   );
